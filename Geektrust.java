@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class Geektrust {
     private static final String BALANCE = "BALANCE";
     private static final String LOAN = "LOAN";
     private static final String PAYMENT = "PAYMENT";
